@@ -22,14 +22,11 @@ Python | C# | C++ | Pandas | OpenPyXL | .NET | Git | APIs | Data Automation
 
 ## 📂 Featured Projects
 
-### 🧾 [Spreadsheet Automation in Python](https://github.com/AnaChris154/spreadsheet-automation)
+### 🧾 [Spreadsheet Automation in Python](https://github.com/AnaChris154/Automacao-planilhas-python)
 Automates Excel file reading and generates summarized reports automatically using Python and OpenPyXL.
 
-### ⚙️ [Dataserver Automation in C# (TOTVS Demo)](https://github.com/AnaChris154/totvs-automation-demo)
+### ⚙️ [Dataserver Automation in C# (TOTVS Demo)](https://github.com/AnaChris154/Automacao-de-Dataservers)
 A demo version of an internal automation project built with C# and .NET, integrating data operations through the TOTVS Dataserver API.
-
-### 🤖 [Simple Telegram Bot](https://github.com/AnaChris154/telegram-bot)
-A small bot that replies to messages and runs simple commands — perfect for quick automation tasks.
 
 ---
 
