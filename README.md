@@ -1,6 +1,6 @@
 # Hi there! I'm Ana Chris 👋
 
-💻 **Programmer & Data Analyst**  
+💻 **Software Developer | C#/.NET | Systems Engineering Student**  
 I build fast, reliable automation scripts and help businesses optimize their workflows.  
 Passionate about transforming repetitive tasks into efficient, automated solutions.
 
